@@ -1,7 +1,7 @@
 $("#kastroplayerlocaradio").kasradio({
 userinterface: "big",
 backgroundcolor: "transparent",
-themecolor: "#ffccff", 
+themecolor: "#e984ff", 
 themefontcolor: "#ffffff", 
 startvolume: "50", 
 scroll: "true", 
